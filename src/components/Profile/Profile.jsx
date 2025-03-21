@@ -1,6 +1,5 @@
 import s from './Profile.module.css';
 const Profile = props => {
-  console.log(props);
   return (
     <div className={s.card}>
       <div>

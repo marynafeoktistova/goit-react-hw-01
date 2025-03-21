@@ -1,0 +1,12 @@
+.list{
+  display: flex;
+  list-style: none;
+  justify-content: center;
+  margin-top: 25px;
+  gap: 10px;
+  }
+.value {
+  border: 2px solid gray;
+  padding: 15px;
+  border-radius: 6px;
+}
